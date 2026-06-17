@@ -7,3 +7,4 @@ Former Lead Synergist for neuro-inclusive task application and caregiver relatio
 - How to exit vim.
 
 Vibe coding is a thing of the past, the new trendy thing is actually knowing what you are doing
+This is all sarcasm by the way.
